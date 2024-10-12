@@ -20,6 +20,8 @@
       "streetsidesoftware.code-spell-checker"
       "streetsidesoftware.code-spell-checker-russian"
       "wix.vscode-import-cost"
+      "formulahendry.auto-rename-tag"
+      "oderwat.indent-rainbow"
   ];
   idx.previews = {
     previews = {
