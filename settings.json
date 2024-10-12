@@ -24,12 +24,15 @@
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true,
     "cSpell.userWords": [
+        "appwrite",
         "autofetch",
         "catppuccin",
         "Consolas",
         "donot",
         "Fira",
         "glassmorphism",
+        "hookform",
+        "lucide",
         "Menlo",
         "rapidapi",
         "sonner"
