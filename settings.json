@@ -50,8 +50,9 @@
     "editor.lineHeight": 1.5,
     "editor.letterSpacing": 0,
     "debug.console.fontSize": 12,
-    "workbench.preferredDarkColorTheme": "Monospace Dark",
+    "workbench.preferredDarkColorTheme": "Horizon",
     "workbench.preferredLightColorTheme": "Horizon",
     "window.autoDetectColorScheme": true,
-    "inlineChat.mode": "preview"
+    "inlineChat.mode": "preview",
+    "workbench.statusBar.visible": false
 }
